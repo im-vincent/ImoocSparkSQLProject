@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/compiler.xml
+.idea/hydra.xml
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/scala_compiler.xml
+.idea/workspace.xml
+ImoocSparkSQLProject.iml
+spark-warehouse/
+src/test/
+target/
